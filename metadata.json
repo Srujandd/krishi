@@ -1,0 +1,6 @@
+{
+  "name": "KisanDrishti — Multilingual Crop Disease Scanner",
+  "description": "Precision crop pathology scanner, dosage calculator, regional weather advisor, and offline TFLite/Flutter reference kit with full multilingual support including Gujarati (ગુજરાતી).",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
